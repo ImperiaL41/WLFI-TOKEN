@@ -2,7 +2,7 @@
   "name": "World Liberty Finance",
   "symbol": "WLFI",
   "description": "World Liberty Finance (WLFI) is a utility and meme coin designed to empower decentralized finance, foster global economic participation, and enable borderless value transfer. WLFI aims to unlock new possibilities for communities worldwide by providing secure, transparent, and efficient digital asset transactions.",
-  "seller_fee_basis_points": 0,
+  "decimals": 9,
   "image": "https://raw.githubusercontent.com/ImperiaL41/WLFI-TOKEN/main/wlfi.jpg",
   "external_url": "https://github.com/ImperiaL41/WLFI-TOKEN",
   "attributes": [
@@ -19,6 +19,22 @@
       "value": "Meme Coin"
     }
   ],
+  "tags": [
+    "meme coin",
+    "utility",
+    "defi",
+    "community",
+    "solana",
+    "yield",
+    "staking",
+    "airdrops",
+    "web3",
+    "rewards",
+    "fast",
+    "early",
+    "crypto",
+    "low fees"
+  ],
   "properties": {
     "files": [
       {
@@ -26,12 +42,6 @@
         "type": "image/jpg"
       }
     ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "",
-        "share": 100
-      }
-    ]
+    "category": "image"
   }
 }
