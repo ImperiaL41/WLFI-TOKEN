@@ -1,6 +1,37 @@
 {
   "name": "World Liberty Finance",
   "symbol": "WLFI",
-  "description": "World Liberty Finance is a decentralized finance token on Solana.",
-  "image": "https://raw.githubusercontent.com/ImperiaL41/WLFI-TOKEN/main/wlfi.jpg"
+  "description": "World Liberty Finance (WLFI) is a utility and meme coin designed to empower decentralized finance, foster global economic participation, and enable borderless value transfer. WLFI aims to unlock new possibilities for communities worldwide by providing secure, transparent, and efficient digital asset transactions.",
+  "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/ImperiaL41/WLFI-TOKEN/main/wlfi.jpg",
+  "external_url": "https://github.com/ImperiaL41/WLFI-TOKEN",
+  "attributes": [
+    {
+      "trait_type": "Token Type",
+      "value": "Utility"
+    },
+    {
+      "trait_type": "Ecosystem",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Tag",
+      "value": "Meme Coin"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/ImperiaL41/WLFI-TOKEN/main/wlfi.jpg",
+        "type": "image/jpg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "",
+        "share": 100
+      }
+    ]
+  }
 }
